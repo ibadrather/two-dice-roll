@@ -2,7 +2,7 @@
 
 A Streamlit web application that simulates rolling two dice with different probability distributions. Perfect for teaching probability concepts or just having fun with dice rolling!
 
-Use this app here: (two-dice-roll)[!https://dice-roll.streamlit.app/]
+[Use this app here!](https://dice-roll.streamlit.app/)
 
 ## Features
 
@@ -14,4 +14,3 @@ Use this app here: (two-dice-roll)[!https://dice-roll.streamlit.app/]
 - Chronological roll history tracking
 - Responsive design with custom styling
 - Type-safe implementation with comprehensive documentation
-  
